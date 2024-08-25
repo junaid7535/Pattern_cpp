@@ -1,12 +1,6 @@
 #include<iostream>
 using namespace std;
 
-// inner loop and outer loop
-// outer loop count the no of lines
-// for the inner loop focus on the columns,and connect them somehow to the rows
-// print them inside the inner loop
-
-
 /* void solve(int n){
     for(int i = 0; i<n; i++){
         for(int j = 0; j<n; j++){
